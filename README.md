@@ -4,4 +4,3 @@
 
 
 
-https://discord.c99.nl/widget/theme-3/905373133085741146.png

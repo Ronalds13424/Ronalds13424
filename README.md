@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ronalds13424
 
-- 📫 How to reach me:
-- discord ronalds234243413
+- 📫 How to reach me:ronalds1398 on discord
 
 
+
+https://discord.c99.nl/widget/theme-3/905373133085741146.png

@@ -11,10 +11,12 @@
 ## Skills
 
 Languages:
-Python
+- Python
 
 Front-End Development:
-HTML, JavaScript, CSS
+- HTML5
+- CSS
+- JavaScript
 
 [![Hits](https://hits.sh/github.com/Ronalds13424.svg)](https://hits.sh/github.com/Ronalds13424/)
 

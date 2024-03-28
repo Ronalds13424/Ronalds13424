@@ -8,6 +8,32 @@
 
 ![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+## Skills
+
+Languages:
+
+C C++ Python
+
+
+Front-End Development:
+
+HTML5 CSS3 JavaScript
+
+
+Cloud Hosting:
+
+Github Pages
+
+
+Softwares and Tools:
+
+Git GitHub Google Visual Studio Code Linux
+
+
+Extras:
+
+Terminal Markdown
+
 [![Hits](https://hits.sh/github.com/Ronalds13424.svg)](https://hits.sh/github.com/Ronalds13424/)
 
 

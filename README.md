@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ronalds1398!
 
-- 👨‍💻 I'm a young developer from Latvia, passionate about coding and contributing to various projects. Currently, I'm involved in projects like [PixelByte](https://pixelbyte.dev) and [MSite](https://msite.eu.org).
+- 👨‍💻 I'm a young developer from Latvia, passionate about coding and contributing to various projects.
 
 - 📫 How to reach me: You can find me on Discord as **ronalds1398**.
 
